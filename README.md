@@ -44,7 +44,7 @@ Generate random color palettes, lock favorite colors, copy HEX codes, and save p
 
 ### Desktop View
 
-![Desktop view](screenshots/main-pagedesktop.png)
+![Desktop view](screenshots/main-page-desktop.png)
 
 ### Mobile View
 
