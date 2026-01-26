@@ -12,8 +12,8 @@
 A modern **color palette generator** built with **Vite, React, TypeScript, and Firebase**.  
 Generate random color palettes, lock favorite colors, copy HEX codes, and save palette screenshots to the cloud.
 
-🔗 **Live Demo:**https://color-selection-67960.web.app
-
+### 🔗 Live Demo
+👉 https://color-selection-vm.web.app
 ---
 
 ## ✨ Features
