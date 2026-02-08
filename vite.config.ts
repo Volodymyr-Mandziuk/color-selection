@@ -8,4 +8,8 @@ export default defineConfig({
     open: true,
   },
   base: "/colors/",
+  build: {
+    outDir: "../portfolio-main/dist/colors",
+    emptyOutDir: true
+  }
 });

@@ -4,7 +4,7 @@ import ColorColumn from "./components/ColorColumn";
 import type { ColorColumnType } from "./types";
 import html2canvas from "html2canvas";
 import { ref, uploadString, getDownloadURL } from "firebase/storage";
-import { storage } from "./firebase";
+import { storage } from "./firebase/firebase";
 import Spinner from "./components/Spinner";
 import { FiCamera, FiCopy, FiShuffle } from "react-icons/fi";
 
